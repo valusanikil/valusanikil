@@ -1,4 +1,4 @@
-<h1 align="center">Hey everyone, I’m Valusa Nikil 👋</h1>
+<h1 align="center">Hi everyone, I’m Valusa Nikil 👋</h1>
 
 <!--
 **valusanikil/valusanikil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
