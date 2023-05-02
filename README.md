@@ -10,3 +10,6 @@
 <p>&#x2022; 💼 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚘𝚏 -> <strong>WORKEDO a service based start-up company.</strong></p>
 <p>&#x2022; 📝 Checkout my -> <a href="https://drive.google.com/file/d/1L73b9_rZbCRbA3OvUi_YEDxuJ44Irktv/view"><strong>resume</strong></a></p>
 <p>&#x2022; 📫 How to reach me -> <a href="mailto:valusa.nikhil13@gmail.com"><img align="center" src="https://user-images.githubusercontent.com/56149197/218254506-dd38dc25-4dc9-4f24-be93-d05a7be9c3d6.png" alt="valusanikil" height="30" width="40" /><strong>valusa.nikhil13@gmail.com</strong></a></p>
+<h3 align="left">Connect with me:</h3>
+<a href="https://linkedin.com/in/nikil-valusa" target="blank"><img align="center" src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" alt="valusanikil" height="35em" /></a>
+<a href="https://instagram.com/valusanikil" target="blank"><img align="center" src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" alt="valusanikil" height="35em"/></a>
