@@ -12,8 +12,8 @@
 <p>&#x2022; 📫 How to reach me -> <a href="mailto:valusa.nikhil13@gmail.com"><img align="center" src="https://user-images.githubusercontent.com/56149197/218254506-dd38dc25-4dc9-4f24-be93-d05a7be9c3d6.png" alt="valusanikil" height="30" width="40" /><strong>valusa.nikhil13@gmail.com</strong></a></p>
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://linkedin.com/in/nikil-valusa" target="blank"><img align="center" src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" alt="valusanikil" height="35em" /></a>
-<a href="https://instagram.com/valusanikil" target="blank"><img align="center" src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" alt="valusanikil" height="35em"/></a>
+<a href="https://linkedin.com/in/nikil-valusa" target="blank"><img align="center" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" alt="valusanikil" height="35em" /></a>
+<a href="https://instagram.com/valusanikil" target="blank"><img align="center" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" alt="valusanikil" height="35em"/></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <div>
