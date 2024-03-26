@@ -19,6 +19,8 @@
   <img align="left" alt="Arjun | Medium" width="30px" src="https://github.com/arjun-sudo/arjun-sudo/blob/master/assets/instagram.svg" />
 </a>
 
+<br/>
+
 <h3 align="left">Languages and Tools:</h3>
 <div>
   <img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" height="40em"/>
