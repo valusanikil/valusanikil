@@ -12,7 +12,7 @@
 <p>&#x2022; 📫 How to reach me -> <a href="mailto:valusa.nikhil13@gmail.com"><img align="center" src="https://user-images.githubusercontent.com/56149197/218254506-dd38dc25-4dc9-4f24-be93-d05a7be9c3d6.png" alt="valusanikil" height="30" width="40" /><strong>valusa.nikhil13@gmail.com</strong></a></p>
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/nikilvalusa/" target="_blank">
+<a href="https://www.linkedin.com/in/nikil-valusa/" target="_blank">
   <img align="left" alt="Arjun | LinkedIn" width="30px"  src="https://raw.githubusercontent.com/arjun-sudo/arjun-sudo/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/valusanikil/" target="_blank">
