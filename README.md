@@ -2,7 +2,7 @@
 
 <!--**valusanikil/valusanikil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-<h3 align="center">A Software Engineer</h3>
+<h3 align="center">A Passionate Software Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valusanikil&label=Profile%20views&color=0e75b6&style=flat" alt="valusanikil" /> </p>
 <p>&#x2022; 🔭 I worked as Software Engineer & interested in -> <strong>Java Developer / Java Microservices Developer / Java Backend Development / Full Stack Development / Data Analyst roles.</strong></p>
 <p>&#x2022; 🤝 I worked at -> <strong>LTIMindtree as a Java Full Stack Developer.</strong></p>
